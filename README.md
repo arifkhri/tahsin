@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📖 Tahsin Quran
 
-## Getting Started
+Aplikasi refleksi setelah belajar tahsin quran dari ilmu mabadi, makhraj dan sifat-sifatnya.
 
-First, run the development server:
+## 🎯 Fitur Menu Utama
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 📚 Mabadi
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Mempelajari dasar-dasar ilmu tajwid**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Sistem kuis interaktif dengan soal pilihan ganda dan esai
+- 10 bagian komprehensif meliputi:
+  - **A. Definisi** - Pengertian dan terminologi
+  - **B. Objek Pembahasan** - Ruang lingkup materi
+  - **C. Manfaat** - Keuntungan dan kepentingan
+  - **D. Keutamaan** - Keunggulan dan keutamaan
+  - **E. Nisbah** - Klasifikasi akademik
+  - **F. Peletak Dasar** - Dasar-dasar sejarah
+  - **G. Al-Ism / Nama Lain** - Nama-nama alternatif
+  - **H. Sandaran** - Dasar akademik
+  - **I. Hukum** - Hukum agama
+  - **J. Masail / Permasalahan** - Isu dan topik utama
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 📍 Makhraj _(Segera Hadir)_
 
-## Learn More
+**Tempat keluarnya huruf hijaiyah**
 
-To learn more about Next.js, take a look at the following resources:
+### ✨ Sifat _(Segera Hadir)_
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+**Sifat lahadid dan ghairu lahadid**
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🔤 Huruf Hijaiyah
 
-## Deploy on Vercel
+**Rangkuman dalam 29 huruf hijaiyah**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Sifat dan karakteristik huruf yang detail
+- Sistem filter lanjutan dengan:
+  - **Pencarian berdasarkan nama** - Cari huruf berdasarkan nama
+  - **Filter makhraj** - Kelompokkan berdasarkan tempat artikulasi (Lisan, Halq, Khayshum, Jauf)
+  - **Filter sifat** - Filter berdasarkan sifat huruf (nafas, lidah, tebal, pengucapan, suara)
+  - **Filter sifat tambahan** - Karakteristik pembeda tambahan

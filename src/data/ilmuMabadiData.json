@@ -1,0 +1,333 @@
+{
+  "title": "Mabadi Ilmu Tajwid",
+  "sections": [
+    {
+      "id": "A",
+      "title": "Definisi",
+      "content": [
+        {
+          "label": "Secara bahasa",
+          "text": "Membaguskan atau جَوَّدَ-يُجَوِّدَ-تَجْوِيْدًا"
+        },
+        {
+          "label": "Secara istilah",
+          "text": "Mengeluarkan setiap huruf dari tempat keluarnya beserta memberikan sifat hak dan mustahaknya."
+        },
+        {
+          "label": "Secara umum",
+          "text": "Mempelajari ilmu cara membaca Al-Quran"
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "title": "Objek Pembahasan",
+      "content": [
+        {
+          "text": "Kalamullah / Al-Quran"
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "title": "Manfaat",
+      "content": [
+        {
+          "title": "1. Menjaga lidah dari lahn/kesalahan",
+          "details": [
+            {
+              "type": "Lahn Jali",
+              "description": "Kesalahan yang merubah makna, merubah huruf, merubah harakat dan menambah/mengurangi huruf",
+              "style": "error"
+            },
+            {
+              "type": "Lahn Khofi",
+              "description": "Kesalahan yang tidak merubah makna atau kesalahan sifat aridho/zatiyah",
+              "style": "warning"
+            }
+          ]
+        },
+        {
+          "text": "2. Menjaga keaslian Al-Quran"
+        },
+        {
+          "text": "3. Mengharap ridha dan pahala dari Allah"
+        },
+        {
+          "text": "4. Membedakan Al-Quran & kitab lainnya"
+        },
+        {
+          "text": "5. Memperkuat tadabur ayat Al-Quran"
+        },
+        {
+          "text": "6. Menambah semangat untuk mengamalkannya"
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "title": "Keutamaan",
+      "content": [
+        {
+          "text": "Ilmu tajwid adalah ilmu yang sangat mulia karena berkaitan dengan kalam Allah"
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "title": "Nisbah",
+      "content": [
+        {
+          "text": "Nisbah adalah korelasi ilmu tajwid masuk kedalam rumpun ulumul quran"
+        }
+      ]
+    },
+    {
+      "id": "F",
+      "title": "Peletak Dasar",
+      "content": [
+        {
+          "label": "Secara praktek",
+          "text": "Rasulullah SAW"
+        },
+        {
+          "label": "Secara teori",
+          "text": "Abu Muzahim Musa bin Ubaidillah Al-Khaqani"
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "title": "Al-Ism / Nama Lain",
+      "content": [
+        {
+          "type": "grid",
+          "items": [
+            "Ilmu Tajwid",
+            "Fanut Tartil",
+            "Haqquh Tilawah",
+            "Fatshohatul Lisan",
+            "Tahsin Tilawah",
+            "Tahsin Quran"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H",
+      "title": "Sandaran",
+      "content": [
+        {
+          "text": "Sandaran ilmu tajwid ialah riwayat"
+        }
+      ]
+    },
+    {
+      "id": "I",
+      "title": "Hukum",
+      "content": [
+        {
+          "title": "1. Hukum mengamalkannya:",
+          "items": [
+            "Wajib yang berkaitan dengan irob, makhraj dan makna",
+            "Wajib karena ada perintahnya di Surat Al-Muzammil ayat 4",
+            "Tidak wajib mengamalkan dalam sifat penghias"
+          ],
+          "style": "success"
+        },
+        {
+          "title": "2. Hukum mempelajarinya:",
+          "items": [
+            "Fardu Kifayah untuk umum",
+            "Fardu Ain untuk pengajar Quran"
+          ],
+          "style": "info"
+        }
+      ]
+    },
+    {
+      "id": "J",
+      "title": "Masail / Permasalahan",
+      "content": [
+        {
+          "type": "list",
+          "items": [
+            "Mengenai makhorijul huruf",
+            "Mengenai sifat huruf",
+            "Mengenai hukum-hukum yang muncul sebab tarkib/urutan",
+            "Latihan lidah & perbanyak mengulang"
+          ]
+        }
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "question": "Apa definisi ilmu tajwid secara bahasa?",
+      "options": [
+        "Membaca Al-Quran dengan baik",
+        "Membaguskan atau جَوَّدَ-يُجَوِّدَ-تَجْوِيْدًا",
+        "Mempelajari huruf hijaiyah",
+        "Menghafal Al-Quran"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Secara bahasa, tajwid berarti membaguskan atau dalam bahasa Arab جَوَّدَ-يُجَوِّدَ-تَجْوِيْدًا"
+    },
+    {
+      "id": 2,
+      "question": "Apa objek pembahasan dalam ilmu tajwid?",
+      "options": [
+        "Hadits Nabi",
+        "Kalamullah / Al-Quran",
+        "Kitab-kitab tafsir",
+        "Syair Arab"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Objek pembahasan ilmu tajwid adalah Kalamullah atau Al-Quran"
+    },
+    {
+      "id": 3,
+      "question": "Apa yang dimaksud dengan Lahn Jali?",
+      "options": [
+        "Kesalahan yang tidak merubah makna",
+        "Kesalahan sifat huruf",
+        "Kesalahan yang merubah makna, merubah huruf, merubah harakat dan menambah/mengurangi huruf",
+        "Kesalahan dalam tajwid yang ringan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lahn Jali adalah kesalahan yang merubah makna, merubah huruf, merubah harakat dan menambah/mengurangi huruf"
+    },
+    {
+      "id": 4,
+      "question": "Siapa peletak dasar ilmu tajwid secara praktek?",
+      "options": [
+        "Abu Muzahim Musa bin Ubaidillah Al-Khaqani",
+        "Imam Al-Jazari",
+        "Rasulullah SAW",
+        "Imam Hafs"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Secara praktek, peletak dasar ilmu tajwid adalah Rasulullah SAW"
+    },
+    {
+      "id": 5,
+      "question": "Apa sandaran ilmu tajwid?",
+      "options": ["Logika", "Riwayat", "Ijtihad", "Qiyas"],
+      "correctAnswer": 1,
+      "explanation": "Sandaran ilmu tajwid adalah riwayat yang diturunkan secara turun temurun"
+    },
+    {
+      "id": 6,
+      "question": "Apa hukum mempelajari ilmu tajwid untuk pengajar Quran?",
+      "options": ["Sunnah", "Mubah", "Fardu Kifayah", "Fardu Ain"],
+      "correctAnswer": 3,
+      "explanation": "Hukum mempelajari ilmu tajwid adalah Fardu Ain untuk pengajar Quran"
+    },
+    {
+      "id": 7,
+      "question": "Manakah yang bukan nama lain dari ilmu tajwid?",
+      "options": [
+        "Fanut Tartil",
+        "Haqquh Tilawah",
+        "Ilmu Qiraat",
+        "Tahsin Tilawah"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ilmu Qiraat adalah ilmu yang berbeda dari ilmu tajwid, meskipun berkaitan"
+    },
+    {
+      "id": 8,
+      "question": "Apa yang dimaksud dengan Lahn Khofi?",
+      "options": [
+        "Kesalahan yang merubah makna",
+        "Kesalahan yang tidak merubah makna atau kesalahan sifat aridho/zatiyah",
+        "Kesalahan dalam harakat",
+        "Kesalahan dalam makhraj"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lahn Khofi adalah kesalahan yang tidak merubah makna atau kesalahan sifat aridho/zatiyah"
+    },
+    {
+      "id": 9,
+      "question": "Mengapa ilmu tajwid disebut ilmu yang mulia?",
+      "options": [
+        "Karena sulit dipelajari",
+        "Karena berkaitan dengan kalam Allah",
+        "Karena hanya untuk ulama",
+        "Karena diajarkan di pesantren"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ilmu tajwid adalah ilmu yang sangat mulia karena berkaitan dengan kalam Allah"
+    },
+    {
+      "id": 10,
+      "question": "Apa salah satu masail (permasalahan) yang dibahas dalam ilmu tajwid?",
+      "options": [
+        "Mengenai terjemahan Al-Quran",
+        "Mengenai makhorijul huruf",
+        "Mengenai tafsir ayat",
+        "Mengenai sejarah Al-Quran"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Salah satu masail dalam ilmu tajwid adalah mengenai makhorijul huruf (tempat keluarnya huruf)"
+    }
+  ],
+  "essayQuestions": [
+    {
+      "id": 1,
+      "question": "Jelaskan secara lengkap definisi ilmu tajwid menurut bahasa, istilah, dan secara umum!",
+      "sampleAnswer": "Secara bahasa: Tajwid berarti membaguskan atau جَوَّدَ-يُجَوِّدَ-تَجْوِيْدًا. Secara istilah: Mengeluarkan setiap huruf dari tempat keluarnya beserta memberikan sifat hak dan mustahaknya. Secara umum: Mempelajari ilmu cara membaca Al-Quran.",
+      "keyPoints": [
+        "Definisi bahasa",
+        "Definisi istilah",
+        "Definisi umum",
+        "Penjelasan lengkap"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Bandingkan antara Lahn Jali dan Lahn Khofi beserta contohnya!",
+      "sampleAnswer": "Lahn Jali adalah kesalahan yang merubah makna, merubah huruf, merubah harakat dan menambah/mengurangi huruf. Sedangkan Lahn Khofi adalah kesalahan yang tidak merubah makna atau kesalahan sifat aridho/zatiyah. Lahn Jali lebih berbahaya karena dapat mengubah makna Al-Quran.",
+      "keyPoints": [
+        "Perbedaan definisi",
+        "Dampak kesalahan",
+        "Tingkat keseriusan",
+        "Contoh aplikasi"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Sebutkan dan jelaskan minimal 5 manfaat mempelajari ilmu tajwid!",
+      "sampleAnswer": "1. Menjaga lidah dari lahn/kesalahan, 2. Menjaga keaslian Al-Quran, 3. Mengharap ridha dan pahala dari Allah, 4. Membedakan Al-Quran & kitab lainnya, 5. Memperkuat tadabur ayat Al-Quran, 6. Menambah semangat untuk mengamalkannya.",
+      "keyPoints": [
+        "Minimal 5 manfaat",
+        "Penjelasan setiap manfaat",
+        "Keterkaitan dengan ibadah",
+        "Dampak spiritual"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Jelaskan perbedaan hukum mempelajari dan mengamalkan ilmu tajwid!",
+      "sampleAnswer": "Hukum mempelajari: Fardu Kifayah untuk umum, Fardu Ain untuk pengajar Quran. Hukum mengamalkan: Wajib yang berkaitan dengan irob, makhraj dan makna, wajib karena ada perintahnya di Surat Al-Muzammil ayat 4, tidak wajib mengamalkan dalam sifat penghias.",
+      "keyPoints": [
+        "Hukum mempelajari",
+        "Hukum mengamalkan",
+        "Perbedaan status hukum",
+        "Dalil Al-Quran"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Sebutkan dan jelaskan masail (permasalahan) yang dibahas dalam ilmu tajwid!",
+      "sampleAnswer": "1. Mengenai makhorijul huruf - tempat keluarnya huruf hijaiyah, 2. Mengenai sifat huruf - karakteristik setiap huruf, 3. Mengenai hukum-hukum yang muncul sebab tarkib/urutan - aturan yang muncul karena susunan huruf, 4. Latihan lidah & perbanyak mengulang - aspek praktis dalam pembelajaran.",
+      "keyPoints": [
+        "Makhorijul huruf",
+        "Sifat huruf",
+        "Hukum tarkib",
+        "Aspek praktis"
+      ]
+    }
+  ]
+}
