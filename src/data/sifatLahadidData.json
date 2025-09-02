@@ -1,0 +1,488 @@
+{
+  "title": "Sifat Zatiyah Lahadid",
+  "description": "Sifat-sifat yang memiliki lawan dan merupakan sifat asli huruf Hijaiyah",
+  "sections": [
+    {
+      "id": "sifat-hams",
+      "title": "1. Sifat Hams (الْهَمْسُ)",
+      "content": [
+        {
+          "type": "text",
+          "content": "الْهَمْسُ menurut bahasa الأَخْفَاءُ artinya samar-samar."
+        },
+        {
+          "type": "arabic_example",
+          "content": "فَلَا تَسْمَعُ إِلَّا هَمْسًا"
+        },
+        {
+          "type": "text",
+          "content": "\"Sehingga yang kamu dengar hanyalah berbisik atau samar\"."
+        },
+        {
+          "type": "text",
+          "content": "Adapun الْهَمْسُ menurut istilah:"
+        },
+        {
+          "type": "arabic",
+          "content": "جَرَيَانُ النَّفَسِ عِنْدَ النُّطْقِ بِالْحُرُوفِ لِضَعْفِ الْإِعْتِمَادِ عَلَى مَخْرَجِهِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Mengalirnya nafas ketika mengucapkan huruf karena lemahnya penekanan terhadap makhrajnya\"."
+        },
+        {
+          "type": "text",
+          "content": "Jumlah huruf hams adalah 10, yaitu:"
+        },
+        {
+          "type": "arabic_letters",
+          "content": "ف - ح - ث - هـ - ش - خ - ص - س - ك - ت"
+        },
+        {
+          "type": "text",
+          "content": "Terkumpul dalam kalimat:"
+        },
+        {
+          "type": "arabic_phrase",
+          "content": "فَحَثَّهُ شَخْصٌ سَكَتْ"
+        }
+      ]
+    },
+    {
+      "id": "sifat-jahr",
+      "title": "Sifat Jahr (الْجَهْرُ)",
+      "content": [
+        {
+          "type": "text",
+          "content": "الْجَهْرُ menurut bahasa الْإِظْهَارُ وَ الْإِعْلَانُ artinya berkumandang dan jelas."
+        },
+        {
+          "type": "text",
+          "content": "Adapun الْجَهْرُ menurut istilah adalah:"
+        },
+        {
+          "type": "arabic",
+          "content": "إِنْحِبَاسُ النَّفَسِ عِنْدَ النُّطْقِ بِالْحُرُوفِ لِقُوَّةِ الْإِعْتِمَادِ عَلَى مَخْرَجِهِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Tertahannya nafas ketika mengucapkan huruf karena kuatnya penekanan terhadap makhrajnya\"."
+        },
+        {
+          "type": "text",
+          "content": "Jahr merupakan lawan dari hams, oleh karena itu huruf jahr adalah sisa huruf hijaiyah dari huruf hams."
+        },
+        {
+          "type": "text",
+          "content": "Jumlah huruf jahr adalah 19, yaitu:"
+        },
+        {
+          "type": "arabic_letters",
+          "content": "ع - ظ - م - و - ي - ن - ل - ر - ى - ب - ج - د - ق - ط - ز - غ - ض - ذ - ء"
+        },
+        {
+          "type": "text",
+          "content": "ل - أ"
+        },
+        {
+          "type": "text",
+          "content": "Terkumpul dalam kalimat:"
+        },
+        {
+          "type": "arabic_phrase",
+          "content": "عَظُمَ وَزْنُ قَارِئٍ غَضَّ ذِي طَلْبٍ جَدّ"
+        }
+      ]
+    },
+    {
+      "id": "sifat-syiddah",
+      "title": "2. Sifat Syiddah (الشِّدَّةُ)",
+      "content": [
+        {
+          "type": "text",
+          "content": "الشِّدَّةُ menurut bahasa الْقُوَّةُ artinya kuat."
+        },
+        {
+          "type": "text",
+          "content": "Adapun الشِّدَّةُ menurut istilah:"
+        },
+        {
+          "type": "arabic",
+          "content": "إِنْحِبَاسُ الصَّوْتِ عِنْدَ النُّطْقِ بِالْحُرُوفِ لِقُوَّةِ الْإِعْتِمَادِ عَلَى مَخْرَجِهِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Tertahannya suara ketika mengucapkan huruf karena kuatnya penekanan terhadap makhrajnya\"."
+        },
+        {
+          "type": "text",
+          "content": "Jumlah huruf syiddah adalah 8, yaitu:"
+        },
+        {
+          "type": "arabic_letters",
+          "content": "ء - ج - د - ق - ط - ب - ك - ت"
+        },
+        {
+          "type": "text",
+          "content": "Terkumpul dalam kalimat:"
+        },
+        {
+          "type": "arabic_phrase",
+          "content": "أَجِدْ قَطٍ بَكَتْ"
+        }
+      ]
+    },
+    {
+      "id": "sifat-rakhawah",
+      "title": "Sifat Rakhawah (الرَّخَاوَةُ)",
+      "content": [
+        {
+          "type": "text",
+          "content": "الرَّخَاوَةُ menurut bahasa اللِّينُ artinya lunak atau lembut."
+        },
+        {
+          "type": "text",
+          "content": "Adapun الرَّخَاوَةُ menurut istilah:"
+        },
+        {
+          "type": "arabic",
+          "content": "جَرَيَانُ الصَّوْتِ عِنْدَ النُّطْقِ بِالْحُرُوفِ لِضَعْفِ الْإِعْتِمَادِ عَلَى مَخْرَجِهِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Mengalirnya suara ketika mengucapkan huruf karena lemahnya penekanan terhadap makhrajnya\"."
+        },
+        {
+          "type": "text",
+          "content": "Jumlah huruf rakhawah adalah 16, yaitu:"
+        },
+        {
+          "type": "arabic_letters",
+          "content": "ء - خ - ذ - ز - ش - ض - ظ - غ - ف - ث - ح - ه - ى - و - ا - ن"
+        },
+        {
+          "type": "text",
+          "content": "Terkumpul dalam kalimat:"
+        },
+        {
+          "type": "arabic_phrase",
+          "content": "خُذْ غَشَّ ضَوْءٍ زُرْ سَوَاءً"
+        }
+      ]
+    },
+    {
+      "id": "sifat-istila",
+      "title": "3. Sifat Isti'la (الْإِسْتِعْلَاءُ)",
+      "content": [
+        {
+          "type": "text",
+          "content": "الْإِسْتِعْلَاءُ menurut bahasa adalah الْإِرْتِفَاعُ artinya terangkat."
+        },
+        {
+          "type": "text",
+          "content": "Adapun الْإِسْتِعْلَاءُ menurut istilah:"
+        },
+        {
+          "type": "arabic",
+          "content": "إِرْتِفَاعُ أَقْصَى اللِّسَانِ إِلَى الْحَنَكِ الْأَعْلَى عِنْدَ النُّطْقِ بِالْحُرُوفِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Terangkatnya pangkal lidah ke langit-langit atas ketika mengucapkan huruf\"."
+        },
+        {
+          "type": "text",
+          "content": "Jumlah huruf isti'la adalah 7, yaitu:"
+        },
+        {
+          "type": "arabic_letters",
+          "content": "خ - ص - ض - غ - ط - ق - ظ"
+        },
+        {
+          "type": "text",
+          "content": "Terkumpul dalam kalimat:"
+        },
+        {
+          "type": "arabic_phrase",
+          "content": "خُصَّ ضَغْطٍ قِظْ"
+        }
+      ]
+    },
+    {
+      "id": "sifat-ishmat",
+      "title": "Sifat Ishmat (الْإِصْمَاتُ)",
+      "content": [
+        {
+          "type": "text",
+          "content": "الْإِصْمَاتُ menurut bahasa الْمَنْعُ artinya tertahan."
+        },
+        {
+          "type": "text",
+          "content": "Adapun الْإِصْمَاتُ menurut istilah:"
+        },
+        {
+          "type": "arabic",
+          "content": "ثِقَلُ الْحُرُوفِ وَصُعُوبَةُ النُّطْقِ بِهِ لِخُرُوجِهِ بَعِيدًا عَنْ مُقَدَّمِ الْفَمِ أَوْ طَرَفِ اللِّسَانِ أَوْ ذَلْقِ الشَّفَةِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Berat dan sulitnya huruf ketika dibunyikan/diucapkan karena keluarnya jauh dari ujung lidah dan ujung bibir\"."
+        },
+        {
+          "type": "text",
+          "content": "Jumlah huruf ishmat adalah 23, yaitu:"
+        },
+        {
+          "type": "arabic_letters",
+          "content": "ح - خ - ع - غ - ق - ك - ج - ش - ي - ض - ص - س - ز - ت - ط - د - ث - ظ - ذ - ه - ء - و - ا"
+        },
+        {
+          "type": "arabic_letters",
+          "content": "خ - ط - د - ي - ج - ش - ل - ا"
+        },
+        {
+          "type": "text",
+          "content": "Terkumpul dalam kalimat:"
+        },
+        {
+          "type": "arabic_phrase",
+          "content": "جُزْءٌ عَيْنٌ صَاحِبُ قَدْ ذَعَطَهُ بِحُسْنٍ"
+        }
+      ]
+    },
+    {
+      "id": "sifat-idzlaq",
+      "title": "5. Sifat Idzlaq (الْإِذْلَاقُ)",
+      "content": [
+        {
+          "type": "text",
+          "content": "الْإِذْلَاقُ menurut bahasa حِدَّةُ اللِّسَانِ artinya ketajaman lidah yakni kelancarannya."
+        },
+        {
+          "type": "text",
+          "content": "Adapun الْإِذْلَاقُ menurut istilah:"
+        },
+        {
+          "type": "arabic",
+          "content": "خُرُوجُ الْحُرُوفِ بِسُهُولَةٍ وَيُسْرٍ عِنْدَ النُّطْقِ بِهِ لِخُرُوجِهِ مِنْ ذَلْقِ اللِّسَانِ أَوْ ذَلْقِ الشَّفَةِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Keluarnya huruf dengan mudah ketika mengucapkannya, karena keluarnya dari ujung lisan dan ujung bibir\"."
+        },
+        {
+          "type": "text",
+          "content": "Jumlah huruf idzlaq adalah 6, yaitu:"
+        },
+        {
+          "type": "arabic_letters",
+          "content": "ف - ر - م - ن - ل - ب"
+        },
+        {
+          "type": "text",
+          "content": "Terkumpul dalam kalimat:"
+        },
+        {
+          "type": "arabic_phrase",
+          "content": "فَرَّ مِنْ لُبّ"
+        }
+      ]
+    },
+    {
+      "id": "sifat-infitah",
+      "title": "Sifat Infitah (الْإِنْفِتَاحُ)",
+      "content": [
+        {
+          "type": "text",
+          "content": "الْإِنْفِتَاحُ menurut bahasa الْإِفْتِرَاقُ artinya terpisah."
+        },
+        {
+          "type": "text",
+          "content": "Adapun الْإِنْفِتَاحُ menurut istilah:"
+        },
+        {
+          "type": "arabic",
+          "content": "إِفْتِرَاقُ مَا بَيْنَ اللِّسَانِ وَالْحَنَكِ الْأَعْلَى عِنْدَ النُّطْقِ بِالْحُرُوفِ ، فَلَا يَنْحَصِرُ الصَّوْتُ بَيْنَهُمَا"
+        },
+        {
+          "type": "text",
+          "content": "\"Terpisahnya antara lisan dan langit-langit atas ketika membunyikan huruf\"."
+        }
+      ]
+    },
+    {
+      "id": "sifat-ithbaq",
+      "title": "4. Sifat Ithbaq (الْإِطْبَاقُ)",
+      "content": [
+        {
+          "type": "text",
+          "content": "الْإِطْبَاقُ menurut bahasa الْإِلْصَاقُ artinya menempel."
+        },
+        {
+          "type": "text",
+          "content": "Adapun الْإِطْبَاقُ menurut istilah:"
+        },
+        {
+          "type": "arabic",
+          "content": "إِلْصَاقُ جُزْءٍ كَبِيرٍ مِنَ اللِّسَانِ إِلَى الْحَنَكِ الْأَعْلَى وَمُحَاذَاةٌ شَدِيدَةٌ عِنْدَ النُّطْقِ بِالْحُرُوفِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Menempelnya sebagian besar lidah ke langit-langit atas ketika membunyikan huruf\"."
+        },
+        {
+          "type": "text",
+          "content": "Jumlah huruf ithbaq adalah 4, yaitu:"
+        },
+        {
+          "type": "arabic_letters",
+          "content": "ص - ض - ط - ظ"
+        },
+        {
+          "type": "text",
+          "content": "Terkumpul dalam kalimat:"
+        },
+        {
+          "type": "arabic_phrase",
+          "content": "صِضْ طَظْ"
+        }
+      ]
+    },
+    {
+      "id": "sifat-istifal",
+      "title": "Sifat Istifal (الْإِسْتِفَالُ)",
+      "content": [
+        {
+          "type": "text",
+          "content": "الْإِسْتِفَالُ menurut bahasa الْإِنْخِفَاضُ artinya terdampar."
+        },
+        {
+          "type": "text",
+          "content": "Adapun الْإِسْتِفَالُ menurut istilah adalah:"
+        },
+        {
+          "type": "arabic",
+          "content": "إِنْخِفَاضُ اللِّسَانِ إِلَى قَاعِ الْفَمِ أَوْ جَنْكِ الْأَسْفَلِ عِنْدَ النُّطْقِ بِالْحُرُوفِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Terdamparnya lidah ke langit-langit bawah ketika membunyikan huruf\"."
+        },
+        {
+          "type": "text",
+          "content": "Jumlah huruf istifal adalah 22, yaitu:"
+        },
+        {
+          "type": "arabic_letters",
+          "content": "ث - ج - ح - د - ذ - ر - ز - س - ش - ع - ف - ك - ل - م - ن - ه - و - ي - ت - ب - ا - ء"
+        },
+        {
+          "type": "text",
+          "content": "ل - ك - ا"
+        },
+        {
+          "type": "text",
+          "content": "Terkumpul dalam kalimat:"
+        },
+        {
+          "type": "arabic_phrase",
+          "content": "ثُثْ عُرِّفَ بَحْرٌ جُرِّدَ سُكَلَا"
+        }
+      ]
+    },
+    {
+      "id": "sifat-tawassuth",
+      "title": "Sifat Tawassuth (التَّوَسُّطُ)",
+      "content": [
+        {
+          "type": "text",
+          "content": "Ada satu sifat huruf yang berada diantara sifat syiddah dan sifat rakhawah, yaitu sifat tawassuth. Dan dinamakan juga dengan sifat bainiyyah, yang artinya pertengahan."
+        },
+        {
+          "type": "text",
+          "content": "Maksudnya adalah pertengahan antara syiddah dan rakhawah"
+        },
+        {
+          "type": "text",
+          "content": "التَّوَسُّطُ menurut bahasa الْإِعْتِدَالُ artinya pertengahan."
+        },
+        {
+          "type": "text",
+          "content": "Adapun التَّوَسُّطُ menurut istilah:"
+        },
+        {
+          "type": "arabic",
+          "content": "عَدَمُ كَمَالِ جَرَيَانِ الصَّوْتِ وَعَدَمُ كَمَالِ إِنْحِبَاسِهِ عِنْدَ النُّطْقِ بِالْحُرُوفِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Tidak sempurnanya mengalir suara, dan tidak sempurnya tertahannya suara ketika membunyikan huruf\"."
+        },
+        {
+          "type": "text",
+          "content": "Jumlah huruf tawassuth adalah 5, yaitu:"
+        },
+        {
+          "type": "arabic_letters",
+          "content": "ل - ن - ع - م - ر"
+        },
+        {
+          "type": "text",
+          "content": "Tersusun dalam kalimat:"
+        },
+        {
+          "type": "arabic_phrase",
+          "content": "لِنْ عُمَرْ"
+        },
+        {
+          "type": "text",
+          "content": "Maka cara membaca tawassuth ini adalah pertengahan antara cara membaca syiddah dan rakhwah yaitu: tidak sempurnanya mengalir suara, dan tidak sempurna pula tertahannya suara ketika membunyikan huruf."
+        },
+        {
+          "type": "text",
+          "content": "Contoh-contoh bacaan yang didalamnya terdapat huruf tawassuth adalah sebagai berikut:"
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "question": "Berapa jumlah huruf hams dalam sifat-sifat huruf?",
+        "options": ["8 huruf", "10 huruf", "12 huruf", "16 huruf"],
+        "correct": 1,
+        "explanation": "Huruf hams berjumlah 10 huruf yang terkumpul dalam kalimat 'فَحَثَّهُ شَخْصٌ سَكَتْ'"
+      },
+      {
+        "id": "q2",
+        "type": "multiple_choice",
+        "question": "Apa arti sifat syiddah menurut bahasa?",
+        "options": ["Lemah", "Kuat", "Sedang", "Lunak"],
+        "correct": 1,
+        "explanation": "Syiddah menurut bahasa berarti الْقُوَّةُ yaitu kuat."
+      },
+      {
+        "id": "q3",
+        "type": "multiple_choice",
+        "question": "Huruf apa saja yang memiliki sifat ithbaq?",
+        "options": [
+          "ص - ض - ط - ظ",
+          "خ - ص - ض - غ",
+          "ء - ج - د - ق",
+          "ف - ر - م - ن"
+        ],
+        "correct": 0,
+        "explanation": "Huruf ithbaq adalah ص - ض - ط - ظ yang terkumpul dalam kalimat 'صِضْ طَظْ'"
+      }
+    ],
+    "essays": [
+      {
+        "id": "e1",
+        "question": "Jelaskan perbedaan antara sifat hams dan jahr beserta contoh hurufnya!",
+        "sample_answer": "Sifat hams adalah mengalirnya nafas ketika mengucapkan huruf karena lemahnya penekanan terhadap makhraj. Contoh huruf hams: ف-ح-ث-هـ-ش-خ-ص-س-ك-ت. Sedangkan sifat jahr adalah tertahannya nafas ketika mengucapkan huruf karena kuatnya penekanan terhadap makhraj. Huruf jahr adalah sisa huruf hijaiyah selain huruf hams."
+      }
+    ]
+  }
+}

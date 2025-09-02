@@ -1,0 +1,148 @@
+{
+  "title": "Sifat-Sifat Huruf",
+  "description": "Pelajari sifat-sifat huruf Hijaiyah untuk meningkatkan kualitas bacaan Al-Quran",
+  "sections": [
+    {
+      "id": "definisi-sifat",
+      "title": "A. Definisi Sifat",
+      "content": [
+        {
+          "type": "text",
+          "content": "Pengertian sifat menurut bahasa, adalah:"
+        },
+        {
+          "type": "arabic",
+          "content": "هُوَ مَا قَامَ بِالشَّيْءِ مِنَ الْمَعَانِي الْحُسِّيَّةِ أَوِ الْمَعْنَوِيَّةِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Apa-apa yang menempel kepada sesuatu yang dapat memberikan makna, baik yang berkaitan dengan sesuatu yang dapat dicapai dengan panca indra, maupun yang bersifat maknawi atau bukan materi\"."
+        },
+        {
+          "type": "text",
+          "content": "Yang dapat dicapai panca indra: panjang, pendek, putih, merah dan lain-lain, bersifat makna: pintar, mulia, malu dan lain-lain."
+        },
+        {
+          "type": "text",
+          "content": "Sedangkan menurut istilah:"
+        },
+        {
+          "type": "arabic",
+          "content": "كَيْفِيَّةُ تَعْرِضُ فِي الْحَرْفِ عِنْدَ خُرُوجِهِ فِي مَخْرَجِهِ فَتُمَيِّزُهُ مَا بِهِ مِنْ جَهْرٍ أَوْ هَمْسٍ أَوْ شِدَّةٍ أَوْ رِخَاوَةٍ وَنَحْوِ ذَالِكَ لِتَمْيِيزِهِ عَنْ غَيْرِهِ مِنَ الْحُرُوفِ"
+        },
+        {
+          "type": "text",
+          "content": "\"Tata cara mengucapkan huruf pada saat keluar dari makhrajnya, dimana dapat diketahui darinya mana jahr, hams, syiddah, qolqolah dan lain sebagainya untuk membedakan antara huruf satu dan huruf lainnya\"."
+        }
+      ]
+    },
+    {
+      "id": "faedah-sifat",
+      "title": "B. Faedah Mengetahui Sifat-Sifat Huruf",
+      "content": [
+        {
+          "type": "text",
+          "content": "Ada tiga faedah yang dapat kita ambil dari mengetahui sifat-sifat huruf, yaitu:"
+        },
+        {
+          "type": "numbered_list",
+          "content": [
+            {
+              "number": "1",
+              "text": "Untuk membedakan antara huruf yang sama atau berdekatan dalam makhraj.",
+              "detail": "Imam Ibnu al-Jazari mengatakan: masing-masing dari setiap huruf hijaiyah itu terkadang sama dalam hal sifatnya, maka oleh karena itu tidaklah dapat dibedakan antara satu sama lain kecuali dengan melihat kepada makhrajnya, dan sebaliknya masing-masing dari setiap huruf hijaiyah itu terkadang sama dalam hal makhrajnya dan tidaklah dapat dibedakan kecuali dengan melihat kepada sifat dari huruf tersebut."
+            },
+            {
+              "number": "2",
+              "text": "Untuk mengetahui kuat dan lemahnya penekanan pada makhraj dari setiap huruf, serta untuk mengetahui mana huruf yang boleh di idghamkan atau tidak.",
+              "detail": "Karena huruf yang kuat memiliki keutamaan dibanding huruf-huruf yang lemah, yaitu huruf yang kuat tidak biasa di idghamkan ke huruf yang lemah."
+            },
+            {
+              "number": "3",
+              "text": "Contoh: ط adalah huruf yang kuat, dan ت huruf yang lemah. Ketika ada huruf ت sukun dan setelahnya huruf ط, maka huruf ت di Idghamkan dengan Idghom Kamil.",
+              "example": "وَذَّت طَابَتْ نَفْسُهُ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pembagian-sifat",
+      "title": "D. Pembagian Sifat-Sifat Huruf",
+      "content": [
+        {
+          "type": "text",
+          "content": "Sifat-sifat huruf hijaiyah secara umum dibagi dua bagian yaitu:"
+        },
+        {
+          "type": "heading",
+          "content": "1. Sifat Lazimah (الصِّفَاتُ اللَّازِمَةُ)"
+        },
+        {
+          "type": "text",
+          "content": "Adapun maksudnya:"
+        },
+        {
+          "type": "arabic",
+          "content": "صِفَاتٌ لَازِمَةٌ لِلْحُرُوفِ لَا تُفَارِقُهُ حَيْثُ إِنْ كُلَّ حَرْفٍ سَوَاءً كَانَ الْحَرْفُ سَاكِنًا أَوْ مُتَحَرِّكًا أَوْ مُشَدَّدًا"
+        },
+        {
+          "type": "text",
+          "content": "\"Sifat-sifat yang menetap pada huruf, yang tidak akan hilang/lepas dari huruf dalam keadaan apapun, baik hurufnya ketika sukun atau berharakat ataupun bertasydid\"."
+        },
+        {
+          "type": "text",
+          "content": "Dan ini adalah sifat yang akan dibahas dalam bab ini."
+        },
+        {
+          "type": "heading",
+          "content": "2. Sifat 'Aridhah (الصِّفَاتُ الْعَارِضَةُ)"
+        },
+        {
+          "type": "text",
+          "content": "Adapun maksudnya:"
+        },
+        {
+          "type": "arabic",
+          "content": "صِفَاتٌ عَارِضَةٌ لِلْحُرُوفِ الَّتِي تَعْرِضُ لِلْحُرُوفِ أَحْيَانًا وَتُفَارِقُهُ أَحْيَانًا أُخْرَى"
+        },
+        {
+          "type": "text",
+          "content": "\"Sifat-sifat yang baru bagi huruf, yang adakalanya mensifati huruf dan diwaktu lain lepas dari huruf\"."
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "type": "multiple_choice",
+        "question": "Apa definisi sifat menurut istilah?",
+        "options": [
+          "Keadaan huruf ketika diam",
+          "Tata cara mengucapkan huruf pada saat keluar dari makhrajnya",
+          "Tempat keluarnya huruf",
+          "Bentuk huruf dalam tulisan"
+        ],
+        "correct": 1,
+        "explanation": "Sifat menurut istilah adalah tata cara mengucapkan huruf pada saat keluar dari makhrajnya untuk membedakan antara huruf satu dan huruf lainnya."
+      },
+      {
+        "id": "q2",
+        "type": "multiple_choice",
+        "question": "Berapa faedah utama mempelajari sifat-sifat huruf?",
+        "options": ["2 faedah", "3 faedah", "4 faedah", "5 faedah"],
+        "correct": 1,
+        "explanation": "Ada 3 faedah utama mempelajari sifat-sifat huruf: membedakan huruf yang sama/berdekatan makhraj, mengetahui kuat/lemah huruf, dan menentukan hukum idgham."
+      }
+    ],
+    "essays": [
+      {
+        "id": "e1",
+        "question": "Jelaskan perbedaan antara sifat lazimah dan sifat 'aridhah!",
+        "sample_answer": "Sifat lazimah adalah sifat yang menetap pada huruf dan tidak akan hilang dalam keadaan apapun (sukun, berharakat, atau bertasydid). Sedangkan sifat 'aridhah adalah sifat yang kadang mensifati huruf dan kadang lepas dari huruf."
+      }
+    ]
+  }
+}

@@ -7,7 +7,7 @@ const cardVariants = cva('rounded-2xl border transition-all duration-200', {
     variant: {
       default: 'bg-white border-0',
       elevated: 'bg-white border-0 hover:shadow-md',
-      outlined: 'bg-white border-gray-200',
+      outlined: 'bg-white border-gray-500',
       ghost: 'bg-transparent border-transparent',
       gradient: 'bg-gradient-to-br from-white to-gray-50 border-0',
     },

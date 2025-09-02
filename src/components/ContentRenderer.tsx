@@ -182,7 +182,7 @@ export default function ContentRenderer({
   };
 
   return (
-    <div className="min-h-screen bg-neutral-100">
+    <div className="min-h-screen">
       <Container size="lg" className="py-6">
         {/* Header */}
         <div className="flex items-center justify-between mb-8 w-full">

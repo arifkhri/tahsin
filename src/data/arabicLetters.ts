@@ -22,7 +22,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Ikhfa',
+    sifatImtihan: 'Al Khofa',
   },
   {
     id: 2,
@@ -46,7 +46,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Ikhfa',
+    sifatImtihan: '-',
   },
   {
     id: 4,
@@ -58,7 +58,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Ikhfa',
+    sifatImtihan: '-',
   },
   {
     id: 5,
@@ -82,7 +82,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Ikhfa',
+    sifatImtihan: '-',
   },
   {
     id: 7,
@@ -94,7 +94,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: "Al Isti'la",
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Ikhfa',
+    sifatImtihan: '-',
   },
   {
     id: 8,
@@ -118,7 +118,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'At-Takrir, Al Inhiraf',
+    sifatImtihan: '-',
   },
   {
     id: 10,
@@ -130,7 +130,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Idzlaq',
-    sifatImtihan: 'Ar-Shafir',
+    sifatImtihan: 'At-Takrir, Al Inhiraf',
   },
   {
     id: 11,
@@ -142,7 +142,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Ar-Shafir',
+    sifatImtihan: 'As-Shafir',
   },
   {
     id: 12,
@@ -154,7 +154,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Ar-Shafir',
+    sifatImtihan: 'As-Shafir',
   },
   {
     id: 13,
@@ -166,7 +166,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Ar-Shafir',
+    sifatImtihan: 'At-Tafasysyi',
   },
   {
     id: 14,
@@ -178,7 +178,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: "Al Isti'la",
     tebal: 'Al Ithbaq',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Ar-Shafir',
+    sifatImtihan: 'As-Shafir',
   },
   {
     id: 15,
@@ -207,14 +207,14 @@ export const arabicLettersData: ArabicLetter[] = [
   {
     id: 17,
     letter: 'ظ',
-    name: 'Za',
+    name: 'Dzha',
     makhraj: 'Tharful Lisan',
     nafas: 'Al-Jahr',
     suara: 'Ar-Rakhaawah',
     lidah: "Al Isti'la",
     tebal: 'Al Ithbaq',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Istithaalah',
+    sifatImtihan: '-',
   },
   {
     id: 18,
@@ -226,7 +226,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'At-Tafasyyi',
+    sifatImtihan: '-',
   },
   {
     id: 19,
@@ -238,7 +238,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: "Al Isti'la",
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Ikhfa',
+    sifatImtihan: '-',
   },
   {
     id: 20,
@@ -250,7 +250,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Idzlaq',
-    sifatImtihan: 'Al Ikhfa',
+    sifatImtihan: '-',
   },
   {
     id: 21,
@@ -274,7 +274,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Ikhfa',
+    sifatImtihan: '-',
   },
   {
     id: 23,
@@ -322,7 +322,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Ikhfa',
+    sifatImtihan: 'Al Khofa',
   },
   {
     id: 27,
@@ -334,7 +334,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Lyn, Al Inhiraf',
+    sifatImtihan: 'Al Liyn, Al Khofa',
   },
   {
     id: 28,
@@ -346,7 +346,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Lyn, Al Inhiraf',
+    sifatImtihan: 'Al Liyn, Al Khofa',
   },
   {
     id: 29,
@@ -358,7 +358,7 @@ export const arabicLettersData: ArabicLetter[] = [
     lidah: 'Al Istifal',
     tebal: 'Al Infitah',
     pengucapan: 'Al Ishmaat',
-    sifatImtihan: 'Al Ikhfa',
+    sifatImtihan: '-',
   },
 ];
 

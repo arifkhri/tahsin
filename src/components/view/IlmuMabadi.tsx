@@ -182,7 +182,7 @@ export default function IlmuMabadi({ onBack }: IlmuMabadiProps) {
   }
 
   return (
-    <div className="min-h-screen bg-neutral-100">
+    <div className="min-h-screen">
       <Container size="lg" className="py-6">
         {/* Header */}
         <div className="flex items-center mb-8 w-full">
@@ -206,7 +206,7 @@ export default function IlmuMabadi({ onBack }: IlmuMabadiProps) {
         <div className="space-y-6 flex flex-col">
           {/* Dynamic sections from JSON */}
           {data.sections.map(section => (
-            <Card key={section.id} variant="elevated" className="p-6">
+            <Card key={section.id} variant="outlined" className="p-6">
               <Typography
                 variant="h4"
                 className="text-gray-900 mb-6 flex items-center"
